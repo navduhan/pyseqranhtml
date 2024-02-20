@@ -7,7 +7,7 @@ thead {
 
 .table-responsived{
 /*         display:block; */
-        width:100%;
+        width:auto;
         overflow-x: auto;
         overflow-y: auto;
         max-height: 580px;
