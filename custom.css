@@ -1,0 +1,24 @@
+
+thead {
+        background: #0056b3;
+    border-bottom: 1px solid #c9c4c4;
+    color: #fff;
+    }
+
+.table-responsived{
+        display:block;
+        width:100%;
+        overflow-x: auto;
+        max-height: 580px;
+        border: none;
+        padding: 5px 2px;
+        
+    }
+
+td{
+        text-align:center!important;
+    }
+
+    .side{
+        font-size:12px
+    }
