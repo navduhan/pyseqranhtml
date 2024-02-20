@@ -9,12 +9,11 @@ thead {
 /*         display:block; */
         width:100%;
         overflow-x: auto;
+        overflow-y: auto;
         max-height: 580px;
         border: none;
         padding: 5px 2px;
-        margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+  
         
     }
 
