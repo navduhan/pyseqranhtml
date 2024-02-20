@@ -1,5 +1,9 @@
 body {
-color: black;
+  font-family: poppins,Arial,sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  font-weight: 400;
+  color: black!important;
 }
 thead {
         background: #0056b3;
