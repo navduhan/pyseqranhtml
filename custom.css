@@ -25,7 +25,7 @@ td{
         font-size:12px
     }
 
-p {
+.pinfo {
   color: black; /* or any other color value */
   font-size: 16px; /* or any other font size value */
 }
