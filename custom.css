@@ -6,7 +6,7 @@ thead {
     }
 
 .table-responsived{
-        display:block;
+/*         display:block; */
         width:100%;
         overflow-x: auto;
         max-height: 580px;
