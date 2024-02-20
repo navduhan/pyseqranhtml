@@ -22,3 +22,8 @@ td{
     .side{
         font-size:12px
     }
+
+p {
+  color: #fff; /* or any other color value */
+  font-size: 16px; /* or any other font size value */
+}
