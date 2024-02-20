@@ -1,4 +1,6 @@
-
+body {
+color: black;
+}
 thead {
         background: #0056b3;
     border-bottom: 1px solid #c9c4c4;
