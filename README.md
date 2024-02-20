@@ -1,0 +1,2 @@
+# pyseqranhtml
+HTML assets
