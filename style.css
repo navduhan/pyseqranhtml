@@ -11709,11 +11709,11 @@ a.text-dark:focus {
 
 body {
     font-family: poppins, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.8;
     font-weight: 400;
     background: #fafafa;
-    color: black
+    color: black!important;
 }
 
 a {
